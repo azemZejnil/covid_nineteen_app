@@ -1,2 +1,2 @@
-![](https://ibb.co/wR5g4Fx)
-![](https://ibb.co/7RCQ741)
+![](https://github.com/azemZejnil/covid_nineteen_app/blob/master/assets/img2.png)
+![](https://github.com/azemZejnil/covid_nineteen_app/blob/master/assets/img1.png)
