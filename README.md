@@ -1,0 +1,1 @@
+![](https://github.com/Norbert515/BookSearch/blob/dev/readmeAssets/stamps.png)
