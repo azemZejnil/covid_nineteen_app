@@ -1,1 +1,2 @@
-![](https://github.com/Norbert515/BookSearch/blob/dev/readmeAssets/stamps.png)
+![](https://ibb.co/wR5g4Fx)
+![](https://ibb.co/7RCQ741)
